@@ -1,0 +1,29 @@
+body{
+    text-align: center; 
+}
+
+#root{
+    width: 100%;
+}
+
+h1{
+    color: aqua;
+}
+
+#btn1{
+    background-color: chartreuse;
+}
+
+#btn2{
+    background-color: red;
+}
+
+#btn3{
+    background-color: cadetblue;
+}
+
+.btns{
+    color: blueviolet;
+    margin-left: 5px;
+    margin-right: 5px;
+}
